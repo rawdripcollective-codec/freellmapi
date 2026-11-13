@@ -38,6 +38,6 @@
     "esbuild": "^0.24.0",
     "js-yaml": "^4.2.0",
     "typescript": "^5.8.0",
-    "vitest": "^3.2.4"
+    "vitest": "^4.1.11"
   }
 }
